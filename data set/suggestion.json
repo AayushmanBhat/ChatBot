@@ -1,0 +1,40 @@
+{
+"dialogs":[
+{"cust":"what is the best you have  ","sales":"we have bb"},
+{"cust":"what is the best you have  ","sales":"we have bb with extra cc"},
+{"cust":"what is the best you have  ","sales":"we have bb with extra cc and a free dd"},
+{"cust":"what is the best you have in veg","sales":"we have vv"},
+{"cust":"what is the best you have in veg ","sales":"we have vv with extra cc"},
+{"cust":"what is the best you have in veg ","sales":"we have vv with extra cc and a free dd"},
+{"cust":"what is the best you have in non veg ","sales":"we have nv  "},
+{"cust":"what is the best you have in non veg ","sales":"we have nv with extra cc"},
+{"cust":"what is the best you have in non veg ","sales":"we have nv with extra cc and a free dd"},
+{"cust":"can u suggest something ","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something ","sales":"sure you can have bb or cc"},
+{"cust":"can u suggest something ","sales":"sure we have aa,bb and cc as our best"},
+{"cust":"can u suggest something from veg ","sales":"sure we have aa,bb and cc as our best"},
+{"cust":"can u suggest something from non veg","sales":"sure we have aa,bb and cc as our best"},
+{"cust":"can u suggest something from veg ","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something from  non veg ","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something good under rr Rs ","sales":"sure can have aa,bb or dd under rr Rs "},
+{"cust":"can u suggest something under rr  Rs in veg","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something under from  non veg ","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something less spicy ","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something less spicy from veg ","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something less spicy from non veg ","sales":"sure you can have bb ,cc or dd"},
+{"cust":"can u suggest something with more vegitables ","sales":"sure you can have bb or dd"},
+{"cust":"can u suggest something with more vegitables ","sales":"sure you can have bb or dd"}
+]}
+
+
+
+
+
+
+
+
+
+
+
+
+

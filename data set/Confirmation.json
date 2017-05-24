@@ -1,0 +1,63 @@
+{
+"dialogs":[
+{"cust":"Please confirm the order","sales":"Ok would you like to checkout?"},
+{"cust":"I would like to confirm the order","sales":"Ok would you like to checkout?"},
+{"cust":"I would like to proceed","sales":"Ok would you like to checkout?"},
+{"cust":"I want to proceed","sales":"Ok would you like to checkout?"},
+{"cust":"Plz proceed","sales":"Ok would you like to checkout?"},
+{"cust":"Please proceed","sales":"Ok would you like to checkout?"},
+{"cust":"Please confirm my order","sales":"Ok would you like to checkout?"},
+{"cust":"confirm my order","sales":"Ok would you like to checkout?"},
+{"cust":" I want to confirm my order","sales":"Ok would you like to checkout?"},
+
+{"cust":"Please confirm the order","sales":"Sure, do you want to checkout?"},
+{"cust":"I would like to confirm the order","sales":"Sure, do you want to checkout?"},
+{"cust":"I would like to proceed","sales":"Sure, do you want to checkout?"},
+{"cust":"I want to proceed","sales":"Sure, do you want to checkout?"},
+{"cust":"Plz proceed","sales":"Sure, do you want to checkout?"},
+{"cust":"Please proceed","sales":"Sure, do you want to checkout?"},
+{"cust":"Please confirm my order","sales":"Sure, do you want to checkout?"},
+{"cust":"confirm my order","sales":"Sure, do you want to checkout?"},
+{"cust":" I want to confirm my order","sales":"Sure, do you want to checkout?"},
+
+{"cust":"Please confirm the order","sales":"Okay,should we move to checkout?"},
+{"cust":"I would like to confirm the order","sales":"Okay,should we move to checkout?"},
+{"cust":"I would like to proceed","sales":"Okay,should we move to checkout?"},
+{"cust":"I want to proceed","sales":"Okay,should we move to checkout?"},
+{"cust":"Plz proceed","sales":"Okay,should we move to checkout?"},
+{"cust":"Please proceed","sales":"Okay,should we move to checkout?"},
+{"cust":"Please confirm my order","sales":"Okay,should we move to checkout?"},
+{"cust":"confirm my order","sales":"Okay,should we move to checkout?"},
+{"cust":" I want to confirm my order","sales":"Okay,should we move to checkout?"},
+
+{"cust":"Yes","sales":"Okay.Moving to checkout"},
+{"cust":"Yeah","sales":"Okay.Moving to checkout"},
+{"cust":"Ya","sales":"Okay.Moving to checkout"},
+{"cust":"Yeah sure","sales":"Okay.Moving to checkout"},
+{"cust":"Yes sure","sales":"Okay.Moving to checkout"},
+
+{"cust":"Yes","sales":"Okay, Checking you out"},
+{"cust":"Yeah","sales":"Okay, Checking you out"},
+{"cust":"Ya","sales":"Okay, Checking you out"},
+{"cust":"Yeah sure","sales":"Okay, Checking you out"},
+{"cust":"Yes sure","sales":"Okay, Checking you out"},
+
+{"cust":"Yes, please checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Yeah,please checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Ya,please checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Yeah sure,please checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Yes sure,please checkout","sales":"Okay.Moving to checkout"},
+
+{"cust":"Yes, please checkout","sales":"Okay, Checking you out"},
+{"cust":"Yeah,please checkout","sales":"Okay, Checking you out"},
+{"cust":"Ya,please checkout","sales":"Okay, Checking you out"},
+{"cust":"Yeah sure,please checkout","sales":"Okay, Checking you out"},
+{"cust":"Yes sure,please checkout","sales":"Okay, Checking you out"},
+
+{"cust":"Yes please","sales":"Okay, Checking you out"},
+{"cust":"Sure","sales":"Okay, Checking you out"},
+
+{"cust":"Yes please","sales":"Okay.Moving to checkout"},
+{"cust":"Sure","sales":"Okay.Moving to checkout"}
+
+]}

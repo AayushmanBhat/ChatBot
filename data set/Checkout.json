@@ -1,0 +1,37 @@
+{
+"dialogs":[
+{"cust":"I want to proceed to checkout","sales":"Okay, Checking you out"},
+{"cust":"Please proceed to checkout","sales":"Okay, Checking you out"},
+{"cust":"Plz proceed to checkout","sales":"Okay, Checking you out"},
+{"cust":"Go to checkout","sales":"Okay, Checking you out"},
+{"cust":"Please checkout","sales":"Okay, Checking you out"},
+{"cust":"Plz checkout","sales":"Okay, Checking you out"},
+{"cust":"move to checkout","sales":"Okay, Checking you out"},
+{"cust":"Please move to checkout","sales":"Okay, Checking you out"},
+{"cust":"I want to checkout","sales":"Okay, Checking you out"},
+{"cust":"I would like to checkout","sales":"Okay, Checking you out"},
+
+{"cust":"I want to proceed to checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Please proceed to checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Plz proceed to checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Go to checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Please checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Plz checkout","sales":"Okay.Moving to checkout"},
+{"cust":"move to checkout","sales":"Okay.Moving to checkout"},
+{"cust":"Please move to checkout","sales":"Okay.Moving to checkout"},
+{"cust":"I want to checkout","sales":"Okay.Moving to checkout"},
+{"cust":"I would like to checkout","sales":"Okay.Moving to checkout"},
+
+{"cust":"I want to proceed to checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"Please proceed to checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"Plz proceed to checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"Go to checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"Please checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"Plz checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"move to checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"Please move to checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"I want to checkout","sales":"sure, Proceeding to checkout"},
+{"cust":"I would like to checkout","sales":"sure, Proceeding to checkout"}
+
+
+]}
